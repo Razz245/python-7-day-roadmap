@@ -1,0 +1,16 @@
+Valid Identifiers:
+name
+first_name
+age1
+_price
+totalAmount
+
+Invalid Identifiers:
+1name
+first-name
+total amount
+for (keyword)
+
+Total Keywords: 35
+Keywords List:
+False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
